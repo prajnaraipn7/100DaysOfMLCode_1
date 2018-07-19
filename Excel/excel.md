@@ -1,4 +1,4 @@
-#LogisticRegression In Excel
+# LogisticRegression In Excel
 
 It is a classification problem.
 
